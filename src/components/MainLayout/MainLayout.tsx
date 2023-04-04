@@ -8,7 +8,7 @@ import Box from "@mui/material/Box";
 function Copyright() {
   return (
     <Typography variant="body2" color="textSecondary" align="center">
-      {"Copyright © Kiryl's Store 2023"}
+      {"Copyright © "}
       <Link color="inherit" href="https://material-ui.com/" underline="hover">
         Kiryl's Store
       </Link>{" "}
