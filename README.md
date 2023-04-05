@@ -3,7 +3,7 @@
 ## Links
 
 - [S3](https://kiryl-shaliapin-store-app-cloudx-aws-practitioner-for-js-2023.s3.amazonaws.com/index.html) should return 403. Not public access.
-- [Cloudfront](https://d1ofr3elavvr18.cloudfront.net/) minor changes in text.
+- [Cloudfront](https://dx32gkyhoz9.cloudfront.net/) minor changes in text.
 
 ## Prerequisites
 
