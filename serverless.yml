@@ -1,11 +1,11 @@
-service: my-store-app
+service: shop-react-redux-cloudfront
 
 frameworkVersion: "3"
 
 provider:
   name: aws
   runtime: nodejs14.x
-  region: us-east-1
+  region: eu-west-1
   # setup profile for AWS CLI.
   profile: sandx
 
@@ -19,7 +19,7 @@ plugins:
 
 custom:
   client:
-    bucketName: kiryl-shaliapin-store-app-cloudx-aws-practitioner-for-js-2023
+    bucketName: shop-react-redux-cloudfront-bucket
     distributionFolder: dist
   s3BucketName: ${self:custom.client.bucketName}
 
